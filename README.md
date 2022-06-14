@@ -8,8 +8,8 @@ Análisis simple usando Google Cloud
 Depósitos de datos 
 
 
-Ibeth Escobedo Rios
-Luis David Huante
+Ibeth Escobedo Rios <br>
+Luis David Huante 
 
 Profesor: Héctor Alonso Guzmán Gutiérrez
 
